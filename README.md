@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 
 
 <img src='https://recordit.co/bstXQVxZyX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 # Twitter - Part I
